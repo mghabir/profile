@@ -16,6 +16,4 @@ redirect_from:
 under Japan Goverment MEXT Scholarship program and 
 my Bachelor from International Islamic University Chittagong, Bangladesh
 
-A data-driven personal website
-======
 
