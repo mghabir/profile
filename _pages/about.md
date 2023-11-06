@@ -12,8 +12,9 @@ redirect_from:
 
 🔬 My research Interest are Generative AI in Education, Open Education, OER Development
 
-👨‍🎓 I have Completed my Master's from Hokkaido Universitn,Japam under Japan Goverment MEXT Scholarship program
-and my Bachelor from International Islamic University Chittagong, Bangladesh
+👨‍🎓 I have Completed my Master's from Hokkaido University,Japan 
+under Japan Goverment MEXT Scholarship program and 
+my Bachelor from International Islamic University Chittagong, Bangladesh
 
 A data-driven personal website
 ======
